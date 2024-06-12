@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="WEBTEST" GUID="{4F8A16C0-54A3-472B-95CE-9596FA22B179}" Generator="2023.1.4.8496"/>
+	<CacheRoot>Z:/Applications/Audiokinetic/Wwise2023.1.4.8496/Projects/WEBTEST/.cache/</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{5BB390EE-EA8A-4F7A-89C1-FBD798E6D58F}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../Wwise_data/Banks/Mac"/>
+		<Platform Name="Web" GUID="{4C300270-AB7A-4474-A8DF-9D717758238B}" BasePlatform="Web" BasePlatformGUID="{639AD233-23F2-4C0F-9127-79F44C15E1DA}" Path="../../../Wwise_data/Banks/Web"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{553A5F08-8307-43A6-BAB2-676E5A496EA4}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{71401095-DF98-E3ED-2A4B-6213BB0960BA}</FileHash>
+</ProjectInfo>
